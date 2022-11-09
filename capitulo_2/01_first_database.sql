@@ -21,3 +21,4 @@ primary key(id)
  
  describe profesores;
  select * from profesores;
+ 
